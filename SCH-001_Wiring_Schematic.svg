@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1120 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect x="0" y="0" width="1120" height="800" style="fill:white;stroke:rgb(255,0,0);stroke-width:1px;"/>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M220,38L220,222C220,226.415 216.415,230 212,230L38,230C33.585,230 30,226.415 30,222L30,38C30,33.585 33.585,30 38,30L212,30C216.415,30 220,33.585 220,38Z" style="fill:rgb(239,246,255);stroke:rgb(191,219,254);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M220,38L220,48C220,52.415 216.415,56 212,56L38,56C33.585,56 30,52.415 30,48L30,38C30,33.585 33.585,30 38,30L212,30C216.415,30 220,33.585 220,38Z" style="fill:rgb(30,58,95);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <rect x="30" y="46" width="190" height="10" style="fill:rgb(30,58,95);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,124.975,71)">
+        <text x="-45.513px" y="0px" style="font-family:'MicrosoftYaHei-Bold', 'Microsoft YaHei', sans-serif;font-weight:700;font-size:10px;fill:white;">①</text>
+        <text x="-32.635px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">SO<tspan x="-18.086px -11.928px -4.656px " y="0px 0px 0px ">LAR</tspan> P<tspan x="11.421px 18.693px " y="0px 0px ">AN</tspan>EL<tspan x="38.843px " y="0px ">S</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M120,78L120,127C120,128.656 118.656,130 117,130L48,130C46.344,130 45,128.656 45,127L45,78C45,76.344 46.344,75 48,75L117,75C118.656,75 120,76.344 120,78Z" style="fill:rgb(30,58,95);stroke:rgb(37,99,235);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M70,75L70,130" style="fill:none;fill-rule:nonzero;stroke:rgb(37,99,235);stroke-width:0.7px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M95,75L95,130" style="fill:none;fill-rule:nonzero;stroke:rgb(37,99,235);stroke-width:0.7px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M45,95L120,95" style="fill:none;fill-rule:nonzero;stroke:rgb(37,99,235);stroke-width:0.7px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M45,110L120,110" style="fill:none;fill-rule:nonzero;stroke:rgb(37,99,235);stroke-width:0.7px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,82,95)">
+        <text x="-14.008px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(29,78,216);">Panel 1</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M205,78L205,127C205,128.656 203.656,130 202,130L133,130C131.344,130 130,128.656 130,127L130,78C130,76.344 131.344,75 133,75L202,75C203.656,75 205,76.344 205,78Z" style="fill:rgb(30,58,95);stroke:rgb(37,99,235);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M155,75L155,130" style="fill:none;fill-rule:nonzero;stroke:rgb(37,99,235);stroke-width:0.7px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M180,75L180,130" style="fill:none;fill-rule:nonzero;stroke:rgb(37,99,235);stroke-width:0.7px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M130,95L205,95" style="fill:none;fill-rule:nonzero;stroke:rgb(37,99,235);stroke-width:0.7px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M130,110L205,110" style="fill:none;fill-rule:nonzero;stroke:rgb(37,99,235);stroke-width:0.7px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,167,95)">
+        <text x="-14.008px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(29,78,216);">Panel 2</text>
+    </g>
+    <g transform="matrix(1,0,0,1,125,197)">
+        <text x="-44.407px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8.5px;fill:rgb(55,65,81);">2 × 200W = 400W total</text>
+    </g>
+    <g transform="matrix(1,0,0,1,125,209)">
+        <text x="-38.111px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(100,116,139);">V<tspan x="-33.217px -28.768px " y="0px 0px ">oc</tspan> ≈ 22V · Isc ≈ 1<tspan x="28.326px 32.775px " y="0px 0px ">1A</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,125,221)">
+        <text x="-47.572px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(100,116,139);">4mm² UV<tspan x="-14.236px -11.572px " y="0px 0px ">-r</tspan>ated solar cable</text>
+    </g>
+    <g transform="matrix(1,0,0,1,125,233)">
+        <text x="-41.252px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(100,116,139);">T<tspan x="-36.662px -34.885px " y="0px 0px ">il</tspan>t 15–25° (Cape <tspan x="22.873px 27.475px 31.924px " y="0px 0px 0px ">Yor</tspan>k)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <circle cx="80" cy="130" r="5" style="fill:rgb(220,38,38);stroke:rgb(153,27,27);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,71,165)">
+        <text x="-2.336px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(220,38,38);">+</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <circle cx="107" cy="130" r="5" style="fill:rgb(31,41,55);stroke:rgb(55,65,81);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,102.002175,165.077757)">
+        <text x="-2.336px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(55,65,81);">−</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <circle cx="163" cy="130" r="5" style="fill:rgb(220,38,38);stroke:rgb(153,27,27);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <circle cx="190" cy="130" r="5" style="fill:rgb(31,41,55);stroke:rgb(55,65,81);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M220,273L220,442C220,446.415 216.415,450 212,450L38,450C33.585,450 30,446.415 30,442L30,273C30,268.585 33.585,265 38,265L212,265C216.415,265 220,268.585 220,273Z" style="fill:rgb(248,250,252);stroke:rgb(203,213,225);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M220,273L220,283C220,287.415 216.415,291 212,291L38,291C33.585,291 30,287.415 30,283L30,273C30,268.585 33.585,265 38,265L212,265C216.415,265 220,268.585 220,273Z" style="fill:rgb(55,65,81);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <rect x="30" y="281" width="190" height="10" style="fill:rgb(55,65,81);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,124.975,306)">
+        <text x="-45.511px" y="0px" style="font-family:'MicrosoftYaHei-Bold', 'Microsoft YaHei', sans-serif;font-weight:700;font-size:10px;fill:white;">②</text>
+        <text x="-32.632px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">BA<tspan x="-18.831px -12.673px " y="0px 0px ">TT</tspan>ER<tspan x="7.106px 13.646px 16.474px 23.746px 31.017px " y="0px 0px 0px 0px 0px ">Y BAN</tspan>K</text>
+    </g>
+    <g transform="matrix(1,0,0,1,55,305)">
+        <g transform="matrix(1,0,0,1,0,24)">
+            <path d="M0,0L0,60" style="fill:none;fill-rule:nonzero;stroke:rgb(55,65,81);stroke-width:4px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,24)">
+            <path d="M10,8L10,52" style="fill:none;fill-rule:nonzero;stroke:rgb(55,65,81);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,24)">
+            <path d="M22,0L22,60" style="fill:none;fill-rule:nonzero;stroke:rgb(55,65,81);stroke-width:4px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,24)">
+            <path d="M32,8L32,52" style="fill:none;fill-rule:nonzero;stroke:rgb(55,65,81);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,24)">
+            <path d="M44,0L44,60" style="fill:none;fill-rule:nonzero;stroke:rgb(55,65,81);stroke-width:4px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,24)">
+            <path d="M54,8L54,52" style="fill:none;fill-rule:nonzero;stroke:rgb(55,65,81);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,21.90051,24.5)">
+            <path d="M54,8L54,52" style="fill:none;fill-rule:nonzero;stroke:rgb(55,65,81);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,24)">
+            <path d="M66,0L66,60" style="fill:none;fill-rule:nonzero;stroke:rgb(55,65,81);stroke-width:4px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,21.118343,24)">
+            <path d="M66,0L66,60" style="fill:none;fill-rule:nonzero;stroke:rgb(55,65,81);stroke-width:4px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,24)">
+            <path d="M-20,30L0,30" style="fill:none;fill-rule:nonzero;stroke:rgb(55,65,81);stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1.394083,0,0,1,-4.891124,24)">
+            <path d="M66,30L86,30" style="fill:none;fill-rule:nonzero;stroke:rgb(55,65,81);stroke-width:1.65px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,108,409)">
+        <text x="-57.124px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8.5px;fill:rgb(55,65,81);">2 × 100Ah 12V <tspan x="2.335px 8.473px " y="0px 0px ">AG</tspan>M · Sealed</text>
+    </g>
+    <g transform="matrix(1,0,0,1,106,421)">
+        <text x="-46.689px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(100,116,139);">T<tspan x="-42.689px -38.24px " y="0px 0px ">ot</tspan>al: 200Ah · 12V system</text>
+    </g>
+    <g transform="matrix(1,0,0,1,108,433)">
+        <text x="-50.697px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(100,116,139);">2–3 days autonomy (no sun)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,101,445)">
+        <text x="-42.904px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(100,116,139);">6mm² cable to controller</text>
+    </g>
+    <g transform="matrix(1,0,0,1,103,459)">
+        <text x="-52.1px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(100,116,139);">Resting V<tspan x="-17.713px -15.49px " y="0px 0px ">: </tspan>12.7V (full charge)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-26.595251,24)">
+        <circle cx="55" cy="335" r="6" style="fill:rgb(220,38,38);stroke:rgb(153,27,27);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,28.406946,362.179443)">
+        <text x="-2.628px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:white;">+</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <circle cx="176" cy="335" r="6" style="fill:rgb(31,41,55);stroke:rgb(55,65,81);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,176,363)">
+        <text x="-2.628px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:white;">−</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M135,461C135,467.071 130.071,472 124,472L66,472C59.929,472 55,467.071 55,461C55,454.929 59.929,450 66,450L124,450C130.071,450 135,454.929 135,461Z" style="fill:rgb(254,243,199);stroke:rgb(217,119,6);stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,95,489)">
+        <text x="-24.256px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(146,64,14);">FUSE · 20A</text>
+    </g>
+    <g transform="matrix(1,0,0,1,69.410156,506.361257)">
+        <text x="0px" y="0px" style="font-family:'SegoeUIEmoji', 'Segoe UI Emoji', sans-serif;font-size:8px;fill:rgb(180,83,9);">⚠</text>
+        <text x="13.207px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(180,83,9);">within 300mm</text>
+    </g>
+    <g transform="matrix(1,0,0,1,82.947344,513.197194)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(180,83,9);">of battery +</text>
+    </g>
+    <g transform="matrix(1,0,0,1.034061,0,22.978161)">
+        <path d="M575,37.736L575,462.264C575,466.533 571.415,470 567,470L318,470C313.585,470 310,466.533 310,462.264L310,37.736C310,33.467 313.585,30 318,30L567,30C571.415,30 575,33.467 575,37.736Z" style="fill:rgb(240,253,244);stroke:rgb(187,247,208);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M575,38L575,48C575,52.415 571.415,56 567,56L318,56C313.585,56 310,52.415 310,48L310,38C310,33.585 313.585,30 318,30L567,30C571.415,30 575,33.585 575,38Z" style="fill:rgb(6,95,70);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <rect x="310" y="46" width="265" height="10" style="fill:rgb(6,95,70);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,441.975,71)">
+        <text x="-80.018px" y="0px" style="font-family:'MicrosoftYaHei-Bold', 'Microsoft YaHei', sans-serif;font-weight:700;font-size:10px;fill:white;">③</text>
+        <text x="-67.14px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">MP<tspan x="-52.04px " y="0px ">P</tspan>T <tspan x="-36.333px -29.062px -21.79px -14.518px -7.247px " y="0px 0px 0px 0px 0px ">CHARG</tspan>E <tspan x="10.13px 17.402px 25.23px " y="0px 0px 0px ">CON</tspan>TR<tspan x="45.932px " y="0px ">O</tspan>LL<tspan x="66.077px " y="0px ">E</tspan>R</text>
+    </g>
+    <g transform="matrix(1,0,0,1.089113,0,17.316509)">
+        <path d="M555,80.509L555,429.491C555,432.531 552.311,435 549,435L336,435C332.689,435 330,432.531 330,429.491L330,80.509C330,77.469 332.689,75 336,75L549,75C552.311,75 555,77.469 555,80.509Z" style="fill:rgb(236,253,245);stroke:rgb(110,231,183);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M535,94L535,156C535,158.208 533.208,160 531,160L354,160C351.792,160 350,158.208 350,156L350,94C350,91.792 351.792,90 354,90L531,90C533.208,90 535,91.792 535,94Z" style="fill:rgb(15,23,42);stroke:rgb(51,65,85);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,442,134)">
+        <text x="-65.338px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(74,222,128);">MPPT CONTROLLER DISPLA<tspan x="59.335px " y="0px ">Y</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,442,149)">
+        <text x="-39.215px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8.5px;fill:rgb(74,222,128);">Battery: 78% · 14.1V</text>
+    </g>
+    <g transform="matrix(1,0,0,1,442,162)">
+        <text x="-38.269px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8.5px;fill:rgb(96,165,250);">Solar: 280W · 18.2V</text>
+    </g>
+    <g transform="matrix(1,0,0,1,442,175)">
+        <text x="-48.344px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8.5px;fill:rgb(252,211,77);">Load: 45W · MPPT<tspan x="23.778px 26.139px " y="0px 0px "> a</tspan>ctive</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M445,182L445,224C445,226.208 443.208,228 441,228L349,228C346.792,228 345,226.208 345,224L345,182C345,179.792 346.792,178 349,178L441,178C443.208,178 445,179.792 445,182Z" style="fill:rgb(219,234,254);stroke:rgb(37,99,235);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,395,219)">
+        <text x="-20.753px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(30,64,175);">PV INPUT</text>
+    </g>
+    <g transform="matrix(1,0,0,1,395,231)">
+        <text x="-32.012px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(59,130,246);">From solar panels</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M376,217L376,221C376,222.104 375.104,223 374,223L354,223C352.896,223 352,222.104 352,221L352,217C352,215.896 352.896,215 354,215L374,215C375.104,215 376,215.896 376,217Z" style="fill:rgb(220,38,38);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M436,217L436,221C436,222.104 435.104,223 434,223L414,223C412.896,223 412,222.104 412,221L412,217C412,215.896 412.896,215 414,215L434,215C435.104,215 436,215.896 436,217Z" style="fill:rgb(55,65,81);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,364,246)">
+        <text x="-6.713px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:7px;fill:white;">PV+</text>
+    </g>
+    <g transform="matrix(1,0,0,1,424,246)">
+        <text x="-6.713px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:7px;fill:white;">PV−</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M445,252L445,294C445,296.208 443.208,298 441,298L349,298C346.792,298 345,296.208 345,294L345,252C345,249.792 346.792,248 349,248L441,248C443.208,248 445,249.792 445,252Z" style="fill:rgb(241,245,249);stroke:rgb(148,163,184);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,395,289)">
+        <text x="-20.749px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(51,65,85);">BA<tspan x="-8.418px -2.92px " y="0px 0px ">TT</tspan>ER<tspan x="14.746px " y="0px ">Y</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,395,301)">
+        <text x="-36.461px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(100,116,139);">T<tspan x="-32.461px -28.012px " y="0px 0px ">o/</tspan>from battery bank</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M376,287L376,291C376,292.104 375.104,293 374,293L354,293C352.896,293 352,292.104 352,291L352,287C352,285.896 352.896,285 354,285L374,285C375.104,285 376,285.896 376,287Z" style="fill:rgb(220,38,38);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M436,287L436,291C436,292.104 435.104,293 434,293L414,293C412.896,293 412,292.104 412,291L412,287C412,285.896 412.896,285 414,285L434,285C435.104,285 436,285.896 436,287Z" style="fill:rgb(55,65,81);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,364,316)">
+        <text x="-8.977px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:7px;fill:white;">BA<tspan x="0.614px 4.889px " y="0px 0px ">T+</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,424,316)">
+        <text x="-8.977px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:7px;fill:white;">BA<tspan x="0.614px 4.889px " y="0px 0px ">T−</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,-5,24)">
+        <path d="M555,309L555,329C555,331.208 553.208,333 551,333L344,333C341.792,333 340,331.208 340,329L340,309C340,306.792 341.792,305 344,305L551,305C553.208,305 555,306.792 555,309Z" style="fill:rgb(254,249,195);stroke:rgb(217,119,6);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,442,342)">
+        <text x="-104.779px" y="0px" style="font-family:'MicrosoftYaHei-Bold', 'Microsoft YaHei', sans-serif;font-weight:700;font-size:9px;fill:rgb(146,64,14);">★</text>
+        <text x="-94.935px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(146,64,14);">ESP32 VOL<tspan x="-46.582px -41.752px -35.253px " y="0px 0px 0px ">TAG</tspan>E SENSE T<tspan x="18.092px 24.592px 30.432px 32.933px " y="0px 0px 0px 0px ">AP →</tspan> BA<tspan x="56.764px 62.262px " y="0px 0px ">T </tspan>terminals</text>
+    </g>
+    <g transform="matrix(1,0,0,1,447,352)">
+        <text x="-86.562px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(180,83,9);">BA<tspan x="-76.484px -71.598px " y="0px 0px ">T+</tspan> and BA<tspan x="-39.055px -34.168px " y="0px 0px ">T−</tspan> connect to voltage divider circuit</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M445,352L445,394C445,396.208 443.208,398 441,398L349,398C346.792,398 345,396.208 345,394L345,352C345,349.792 346.792,348 349,348L441,348C443.208,348 445,349.792 445,352Z" style="fill:rgb(220,252,231);stroke:rgb(22,163,74);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,395,389)">
+        <text x="-32.498px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(20,83,45);">LOAD OUTPUT</text>
+    </g>
+    <g transform="matrix(1,0,0,1,395,401)">
+        <text x="-43.916px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(22,101,52);">T<tspan x="-39.916px -35.467px " y="0px 0px ">o </tspan>loads + ESP32 power</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M376,387L376,391C376,392.104 375.104,393 374,393L354,393C352.896,393 352,392.104 352,391L352,387C352,385.896 352.896,385 354,385L374,385C375.104,385 376,385.896 376,387Z" style="fill:rgb(220,38,38);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M436,387L436,391C436,392.104 435.104,393 434,393L414,393C412.896,393 412,392.104 412,391L412,387C412,385.896 412.896,385 414,385L434,385C435.104,385 436,385.896 436,387Z" style="fill:rgb(55,65,81);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,364,416)">
+        <text x="-6.709px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:7px;fill:white;">LD+</text>
+    </g>
+    <g transform="matrix(1,0,0,1,424,416)">
+        <text x="-6.709px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:7px;fill:white;">LD−</text>
+    </g>
+    <g transform="matrix(1,0,0,1,442,442)">
+        <text x="-96.285px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8.5px;fill:rgb(6,95,70);">Recommended: V<tspan x="-24.645px -22.283px " y="0px 0px ">ic</tspan>tron SmartSolar 75/15 MPPT</text>
+    </g>
+    <g transform="matrix(1,0,0,1,442,454)">
+        <text x="-80.42px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(22,101,52);">or equivalent 20A<tspan x="-18.596px -16.373px " y="0px 0px "> M</tspan>PPT<tspan x="5.705px 7.928px " y="0px 0px "> ·</tspan> 12/24V auto-detect</text>
+    </g>
+    <g transform="matrix(1,0,0,1,442,466)">
+        <text x="-71.146px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(22,101,52);">Max PV voltage: 75V · Max charge: 15A</text>
+    </g>
+    <g transform="matrix(1,0,0,1,442,478)">
+        <text x="-56.471px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(22,101,52);">Set LOAD output to: <tspan x="16.908px 22.244px " y="0px 0px ">Al</tspan>ways ON</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M810,183L810,432C810,436.415 806.415,440 802,440L656,440C651.585,440 648,436.415 648,432L648,183C648,178.585 651.585,175 656,175L802,175C806.415,175 810,178.585 810,183Z" style="fill:rgb(255,247,237);stroke:rgb(254,215,170);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M810,183L810,193C810,197.415 806.415,201 802,201L656,201C651.585,201 648,197.415 648,193L648,183C648,178.585 651.585,175 656,175L802,175C806.415,175 810,178.585 810,183Z" style="fill:rgb(180,83,9);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <rect x="648" y="191" width="162" height="10" style="fill:rgb(180,83,9);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,728.975,216)">
+        <text x="-51.884px" y="0px" style="font-family:'MicrosoftYaHei-Bold', 'Microsoft YaHei', sans-serif;font-weight:700;font-size:10px;fill:white;">④</text>
+        <text x="-39.006px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">VO<tspan x="-24.458px -19.042px -13.625px -6.354px " y="0px 0px 0px 0px ">LTAG</tspan>E <tspan x="11.023px 18.295px 21.123px 27.843px 30.671px " y="0px 0px 0px 0px 0px ">DIVID</tspan>ER</text>
+    </g>
+    <g transform="matrix(1,0,0,1,729,244)">
+        <text x="-30.146px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8.5px;fill:rgb(120,53,15);">WHY<tspan x="-10.469px -8.108px " y="0px 0px "> N</tspan>EEDED:</text>
+    </g>
+    <g transform="matrix(1,0,0,1,729,256)">
+        <text x="-31.021px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(146,64,14);">Battery = 12–14V</text>
+    </g>
+    <g transform="matrix(1,0,0,1,729,267)">
+        <text x="-43.693px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(146,64,14);">ESP32 max input = 3.3V</text>
+    </g>
+    <g transform="matrix(1,0,0,1,729,278)">
+        <text x="-50.447px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(180,83,9);">→ Must step voltage down</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M729,268L729,280" style="fill:none;fill-rule:nonzero;stroke:rgb(220,38,38);stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M761,284L761,302C761,304.208 759.208,306 757,306L701,306C698.792,306 697,304.208 697,302L697,284C697,281.792 698.792,280 701,280L757,280C759.208,280 761,281.792 761,284Z" style="fill:rgb(255,251,235);stroke:rgb(217,119,6);stroke-width:1.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,729,320)">
+        <text x="-25.83px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:rgb(146,64,14);">R1 = 30 kΩ</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M729,306L729,328" style="fill:none;fill-rule:nonzero;stroke:rgb(55,65,81);stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <circle cx="729" cy="328" r="5" style="fill:rgb(31,41,55);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M729,328L800,328" style="fill:none;fill-rule:nonzero;stroke:rgb(139,92,246);stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,761.058594,347.189743)">
+        <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(124,58,237);">→ GPIO34</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M761,340L761,358C761,360.208 759.208,362 757,362L701,362C698.792,362 697,360.208 697,358L697,340C697,337.792 698.792,336 701,336L757,336C759.208,336 761,337.792 761,340Z" style="fill:rgb(255,251,235);stroke:rgb(217,119,6);stroke-width:1.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,729,376)">
+        <text x="-25.83px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:rgb(146,64,14);">R2 = 10 kΩ</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M729,362L729,380" style="fill:none;fill-rule:nonzero;stroke:rgb(31,41,55);stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M710,380L748,380" style="fill:none;fill-rule:nonzero;stroke:rgb(31,41,55);stroke-width:2.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M715,386L743,386" style="fill:none;fill-rule:nonzero;stroke:rgb(31,41,55);stroke-width:1.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M720,392L738,392" style="fill:none;fill-rule:nonzero;stroke:rgb(31,41,55);stroke-width:1.2px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M803,404L803,430C803,432.208 801.208,434 799,434L659,434C656.792,434 655,432.208 655,430L655,404C655,401.792 656.792,400 659,400L799,400C801.208,400 803,401.792 803,404Z" style="fill:rgb(254,243,199);stroke:rgb(217,119,6);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,729,439)">
+        <text x="-48.14px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8.5px;fill:rgb(146,64,14);">V<tspan x="-43.102px -37.91px " y="0px 0px ">ou</tspan>t = V<tspan x="-14.684px -12.323px " y="0px 0px ">in</tspan> × R2/(R1+R2)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,729,452)">
+        <text x="-52.48px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(120,53,15);">= 14V × 10/(30+10) = 3.5V</text>
+        <text x="44.48px" y="0px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:8px;fill:rgb(120,53,15);">✓</text>
+    </g>
+    <g transform="matrix(1,0,0,0.972807,0,93.815792)">
+        <path d="M1105,38.224L1105,541.776C1105,546.315 1101.415,550 1097,550L848,550C843.585,550 840,546.315 840,541.776L840,38.224C840,33.685 843.585,30 848,30L1097,30C1101.415,30 1105,33.685 1105,38.224Z" style="fill:rgb(240,253,244);stroke:rgb(187,247,208);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,93)">
+        <path d="M1105,38L1105,48C1105,52.415 1101.415,56 1097,56L848,56C843.585,56 840,52.415 840,48L840,38C840,33.585 843.585,30 848,30L1097,30C1101.415,30 1105,33.585 1105,38Z" style="fill:rgb(6,95,70);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,93)">
+        <rect x="840" y="46" width="265" height="10" style="fill:rgb(6,95,70);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,971.975,140)">
+        <text x="-69.356px" y="0px" style="font-family:'MicrosoftYaHei-Bold', 'Microsoft YaHei', sans-serif;font-weight:700;font-size:10px;fill:white;">⑤</text>
+        <text x="-56.478px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">ES<tspan x="-43.038px " y="0px ">P</tspan>32<tspan x="-25.095px -22.267px -13.887px " y="0px 0px 0px "> MO</tspan>NI<tspan x="4.042px 10.019px 17.848px 25.119px 27.948px " y="0px 0px 0px 0px 0px ">TORIN</tspan>G <tspan x="45.876px " y="0px ">U</tspan>NI<tspan x="63.248px " y="0px ">T</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,93)">
+        <path d="M1070,69L1070,161C1070,163.208 1068.208,165 1066,165L879,165C876.792,165 875,163.208 875,161L875,69C875,66.792 876.792,65 879,65L1066,65C1068.208,65 1070,66.792 1070,69Z" style="fill:rgb(26,71,42);stroke:rgb(34,84,61);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,93)">
+        <path d="M1010,77L1010,153C1010,154.104 1009.104,155 1008,155L902,155C900.896,155 900,154.104 900,153L900,77C900,75.896 900.896,75 902,75L1008,75C1009.104,75 1010,75.896 1010,77Z" style="fill:rgb(15,23,42);stroke:rgb(51,65,85);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,955,203)">
+        <text x="-35.785px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(74,222,128);">ESP32-WROOM-32</text>
+    </g>
+    <g transform="matrix(1,0,0,1,955,216)">
+        <text x="-34.166px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:7px;fill:rgb(100,116,139);">WiFi SoftAP<tspan x="3.435px 5.38px " y="0px 0px "> ·</tspan> main.py</text>
+    </g>
+    <g transform="matrix(1,0,0,1,955,228)">
+        <text x="-19.452px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:7px;fill:rgb(100,116,139);">MicroPython</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,93)">
+        <path d="M980,61L980,67C980,68.656 978.656,70 977,70L933,70C931.344,70 930,68.656 930,67L930,61C930,59.344 931.344,58 933,58L977,58C978.656,58 980,59.344 980,61Z" style="fill:rgb(75,85,99);stroke:rgb(107,114,128);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,955,161)">
+        <text x="-22.557px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:7px;fill:rgb(156,163,175);">USB-C · 5V in</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,93)">
+        <circle cx="887" cy="95" r="5" style="fill:rgb(34,197,94);stroke:rgb(21,128,61);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,887,203)">
+        <text x="-6.999px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:6px;fill:rgb(74,222,128);">PWR</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,93)">
+        <path d="M883,71L883,159C883,159.552 882.552,160 882,160L876,160C875.448,160 875,159.552 875,159L875,71C875,70.448 875.448,70 876,70L882,70C882.552,70 883,70.448 883,71Z" style="fill:rgb(212,160,23);fill-opacity:0.7;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,93)">
+        <path d="M1070,71L1070,159C1070,159.552 1069.552,160 1069,160L1063,160C1062.448,160 1062,159.552 1062,159L1062,71C1062,70.448 1062.448,70 1063,70L1069,70C1069.552,70 1070,70.448 1070,71Z" style="fill:rgb(212,160,23);fill-opacity:0.7;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,106)">
+        <path d="M1090,183L1090,373C1090,375.76 1087.76,378 1085,378L860,378C857.24,378 855,375.76 855,373L855,183C855,180.24 857.24,178 860,178L1085,178C1087.76,178 1090,180.24 1090,183Z" style="fill:white;stroke:rgb(209,250,229);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,972,302)">
+        <text x="-43.898px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9.5px;fill:rgb(6,95,70);">PIN <tspan x="-25.775px -18.914px " y="0px 0px ">AS</tspan>SIGNMENTS</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,106)">
+        <path d="M860,200L1085,200" style="fill:none;fill-rule:nonzero;stroke:rgb(209,250,229);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g>
+        <g transform="matrix(1,0,0,1,867.065918,319.748542)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(107,114,128);">GPIO PIN</text>
+        </g>
+        <g transform="matrix(1,0,0,1,940,319)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(107,114,128);">FUNCTION</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1008.930664,319.938592)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(107,114,128);">CONNECTED T<tspan x="64.837px " y="0px ">O</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,106)">
+            <path d="M860,217L1085,217" style="fill:none;fill-rule:nonzero;stroke:rgb(226,232,240);stroke-width:0.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,106)">
+            <path d="M1085,221L1085,233C1085,234.104 1084.104,235 1083,235L860,235C858.896,235 858,234.104 858,233L858,221C858,219.896 858.896,219 860,219L1083,219C1084.104,219 1085,219.896 1085,221Z" style="fill:rgb(250,245,255);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,867,337)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(124,58,237);">GPIO 34</text>
+        </g>
+        <g transform="matrix(0.902695,0,0,0.902695,921.344669,334.691532)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(55,65,81);">V<tspan x="5.506px 10.512px " y="0px 0px ">ol</tspan>tage sense(ADC)</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1004.769043,335.27417)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(124,58,237);">V<tspan x="5.335px 10.833px " y="0px 0px ">ol</tspan>tage divider out</text>
+        </g>
+        <g transform="matrix(1,0,0,1,867.065918,353.749707)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(100,116,139);">GPIO 35</text>
+        </g>
+        <g transform="matrix(1,0,0,1,920.932129,352.122816)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(55,65,81);">Current sense</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1003.481201,354.625726)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(100,116,139);">ACS712 module</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,106)">
+            <path d="M860,252L1085,252" style="fill:none;fill-rule:nonzero;stroke:rgb(241,245,249);stroke-width:0.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,867.246094,370.249126)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(100,116,139);">GPIO 32</text>
+        </g>
+        <g transform="matrix(1,0,0,1,921.169434,367.871357)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(55,65,81);">T<tspan x="4.5px 9.505px " y="0px 0px ">em</tspan>p sensor</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1003.013184,369.128643)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(100,116,139);">DS18B20 / NTC</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,106)">
+            <path d="M860,269L1085,269" style="fill:none;fill-rule:nonzero;stroke:rgb(241,245,249);stroke-width:0.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,867.158203,387.179443)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(220,38,38);">3V3</text>
+        </g>
+        <g transform="matrix(1,0,0,1,920.721191,386.27417)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(55,65,81);">Logic power out</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1003.303223,386.329102)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(100,116,139);">Sensors supply</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,106)">
+            <path d="M860,286L1085,286" style="fill:none;fill-rule:nonzero;stroke:rgb(241,245,249);stroke-width:0.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,867.065918,403.262939)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(55,65,81);">GND</text>
+        </g>
+        <g transform="matrix(1,0,0,1,920.932129,403.497083)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(55,65,81);">Common ground</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1003.04834,402.687141)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(100,116,139);">Battery − / BA<tspan x="55.107px 60.605px " y="0px 0px ">T−</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,106)">
+            <path d="M860,303L1085,303" style="fill:none;fill-rule:nonzero;stroke:rgb(241,245,249);stroke-width:0.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,867.681152,418.776611)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(234,88,12);">VIN / USB</text>
+        </g>
+        <g transform="matrix(1,0,0,1,921.006836,418.558491)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(55,65,81);">5V power input</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1003.04834,422)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(100,116,139);">Load output (ctrl)</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,106)">
+            <path d="M860,320L1085,320" style="fill:none;fill-rule:nonzero;stroke:rgb(241,245,249);stroke-width:0.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,867.46582,437.41895)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(37,99,235);">WiFi <tspan x="21.081px 27.58px " y="0px 0px ">AP</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,920.976074,438.061408)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(55,65,81);">SoftAP<tspan x="27.853px 30.353px " y="0px 0px "> m</tspan>ode</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1002.995605,437.977912)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(37,99,235);">192.168.4.1</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,106)">
+            <path d="M860,337L1085,337" style="fill:none;fill-rule:nonzero;stroke:rgb(241,245,249);stroke-width:0.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,868.223877,453.821463)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(55,65,81);">TX / RX</text>
+        </g>
+        <g transform="matrix(1,0,0,1,920.976074,454.435675)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(55,65,81);">Serial UAR<tspan x="44.35px " y="0px ">T</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,1003,456)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(100,116,139);">USB-C (CH340C)</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,106)">
+            <path d="M860,354L1085,354" style="fill:none;fill-rule:nonzero;stroke:rgb(226,232,240);stroke-width:0.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,876.634521,469.044602)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(107,114,128);">* GPIO34/35 are input-only (ADC1). Do not drive high.</text>
+        </g>
+        <g transform="matrix(1,0,0,1,876.634521,481.316406)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(107,114,128);">* <tspan x="4.895px 10.23px " y="0px 0px ">Al</tspan>l GPIO logic is 3.3V — do NOT<tspan x="121.676px 123.898px " y="0px 0px "> c</tspan>onnect 5V signals.</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,0,2)">
+        <path d="M1090,497L1090,535C1090,537.76 1087.76,540 1085,540L860,540C857.24,540 855,537.76 855,535L855,497C855,494.24 857.24,492 860,492L1085,492C1087.76,492 1090,494.24 1090,497Z" style="fill:rgb(240,244,248);stroke:rgb(203,213,225);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,972,509)">
+        <text x="-90.435px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(55,65,81);">HOUSED IN: IP65 W<tspan x="-5.585px -0.58px " y="0px 0px ">ea</tspan>therproof Enclosure</text>
+    </g>
+    <g transform="matrix(1,0,0,1,972,522)">
+        <text x="-71.584px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8.5px;fill:rgb(100,116,139);">100 × 75 × 38 mm · Cable gland entry</text>
+    </g>
+    <g transform="matrix(1,0,0,1,972,534)">
+        <text x="-86.224px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8.5px;fill:rgb(100,116,139);">Filtered vent · Mounted near charge controller</text>
+    </g>
+    <g transform="matrix(1,0,0,1,76.481218,14.038931)">
+        <path d="M224,151L224,158C224,159.656 222.656,161 221,161L171,161C169.344,161 168,159.656 168,158L168,151C168,149.344 169.344,148 171,148L221,148C222.656,148 224,149.344 224,151Z" style="fill:rgb(254,226,226);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,272.196062,171.402212)">
+        <text x="-14.561px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(185,28,28);">DC+ PV</text>
+    </g>
+    <g transform="matrix(1,0,0,1,76.481218,-31.24635)">
+        <path d="M224,166L224,173C224,174.656 222.656,176 221,176L171,176C169.344,176 168,174.656 168,173L168,166C168,164.344 169.344,163 171,163L221,163C222.656,163 224,164.344 224,166Z" style="fill:rgb(243,244,246);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,272.196062,141.116931)">
+        <text x="-14.561px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(55,65,81);">DC− PV</text>
+    </g>
+    <g transform="matrix(1,0,0,1.008333,-26.595251,20.158333)">
+        <path d="M55,341L55,461" style="fill:none;fill-rule:nonzero;stroke:rgb(220,38,38);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(-0,1,-0.221627,-0,130.574838,430)">
+        <path d="M55,341L55,461" style="fill:none;fill-rule:nonzero;stroke:rgb(220,38,38);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(0.967742,0,0,1,4.354839,24)">
+        <path d="M135,461L250,461L250,289L352,289" style="fill:none;fill-rule:nonzero;stroke:rgb(220,38,38);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(0.65,0,0,1.138728,61.6,-41.202312)">
+        <path d="M176,341L176,470L260,470L260,297L436,297" style="fill:none;fill-rule:nonzero;stroke:rgb(31,41,55);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M241,453L241,460C241,461.656 239.656,463 238,463L188,463C186.344,463 185,461.656 185,460L185,453C185,451.344 186.344,450 188,450L238,450C239.656,450 241,451.344 241,453Z" style="fill:rgb(254,226,226);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,213,484)">
+        <text x="-10.26px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(185,28,28);">BA<tspan x="0.701px 5.588px " y="0px 0px ">T+</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M241,467L241,474C241,475.656 239.656,477 238,477L188,477C186.344,477 185,475.656 185,474L185,467C185,465.344 186.344,464 188,464L238,464C239.656,464 241,465.344 241,467Z" style="fill:rgb(243,244,246);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,213,498)">
+        <text x="-10.26px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(55,65,81);">BA<tspan x="0.701px 5.588px " y="0px 0px ">T−</tspan></text>
+    </g>
+    <g transform="matrix(0.852853,0,0,1,134.561562,24)">
+        <path d="M364,285L620,285L620,268L697,268" style="fill:none;fill-rule:nonzero;stroke:rgb(37,99,235);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6,3;"/>
+    </g>
+    <g transform="matrix(1.054222,0,0,1.057895,-14.640803,1.305263)">
+        <path d="M436,297L630,297L630,392L697,392" style="fill:none;fill-rule:nonzero;stroke:rgb(31,41,55);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4,3;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M582,275L582,282C582,283.656 580.656,285 579,285L493,285C491.344,285 490,283.656 490,282L490,275C490,273.344 491.344,272 493,272L579,272C580.656,272 582,273.344 582,275Z" style="fill:rgb(239,246,255);stroke:rgb(37,99,235);stroke-width:0.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,536,306)">
+        <text x="-33.906px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(29,78,216);">Vsense+ · 0.5mm²</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M582,288L582,295C582,296.656 580.656,298 579,298L493,298C491.344,298 490,296.656 490,295L490,288C490,286.344 491.344,285 493,285L579,285C580.656,285 582,286.344 582,288Z" style="fill:rgb(243,244,246);stroke:black;stroke-width:0.8px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,536,319)">
+        <text x="-28.568px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(55,65,81);">Vsense− / GND</text>
+    </g>
+    <g transform="matrix(1,0,0,1.263158,0,-62.315789)">
+        <path d="M800,328L840,328L840,290L855,290" style="fill:none;fill-rule:nonzero;stroke:rgb(139,92,246);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M729,380L810,380L810,310L855,310" style="fill:none;fill-rule:nonzero;stroke:rgb(31,41,55);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-23.427278,-14)">
+        <path d="M860,318L860,325C860,326.656 858.656,328 857,328L803,328C801.344,328 800,326.656 800,325L800,318C800,316.344 801.344,315 803,315L857,315C858.656,315 860,316.344 860,318Z" style="fill:rgb(250,245,255);stroke:rgb(124,58,237);stroke-width:0.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,806.650847,310.363281)">
+        <text x="-19.117px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(124,58,237);">GPIO34 in</text>
+    </g>
+    <g transform="matrix(0.832417,0,0,1,143.283561,15.5)">
+        <path d="M364,389L600,389L600,560L820,560L820,370L855,370" style="fill:none;fill-rule:nonzero;stroke:rgb(220,38,38);stroke-width:1.8px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8,4;"/>
+    </g>
+    <g transform="matrix(0.976125,0,0,0.998314,20.412922,24.957743)">
+        <path d="M436,389L610,389L610,568L828,568L828,378L855,378" style="fill:none;fill-rule:nonzero;stroke:rgb(31,41,55);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6,3;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M705,551L705,558C705,559.656 703.656,561 702,561L618,561C616.344,561 615,559.656 615,558L615,551C615,549.344 616.344,548 618,548L702,548C703.656,548 705,549.344 705,551Z" style="fill:rgb(220,252,231);stroke:rgb(22,163,74);stroke-width:0.8px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,660,582)">
+        <text x="-32.902px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(22,101,52);">5V load → ESP32</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,24)">
+        <path d="M705,565L705,572C705,573.656 703.656,575 702,575L618,575C616.344,575 615,573.656 615,572L615,565C615,563.344 616.344,562 618,562L702,562C703.656,562 705,563.344 705,565Z" style="fill:rgb(243,244,246);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,660,596)">
+        <text x="-26.668px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:8px;fill:rgb(55,65,81);">GND common</text>
+    </g>
+    <g transform="matrix(1,0,0,1,60,-36.929789)">
+        <path d="M1000,596L1000,634C1000,637.311 997.311,640 994,640L846,640C842.689,640 840,637.311 840,634L840,596C840,592.689 842.689,590 846,590L994,590C997.311,590 1000,592.689 1000,596Z" style="fill:rgb(255,251,235);stroke:rgb(217,119,6);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,978.653076,567.518239)">
+        <text x="-51.01px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(146,64,14);">Programming via USB-C</text>
+    </g>
+    <g transform="matrix(1,0,0,1,979.830078,580.187398)">
+        <g transform="matrix(8,0,0,8,-47.5625,0)">
+        </g>
+        <g transform="matrix(8,0,0,8,-45.339844,0)">
+        </g>
+        <text x="-58.234px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(120,53,15);">T<tspan x="-54.234px -49.785px " y="0px 0px ">o </tspan>ﬂash Firmware → USB-C port</text>
+    </g>
+    <g transform="matrix(1,0,0,1,979.941406,592.518228)">
+        <text x="-54.473px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;fill:rgb(120,53,15);">Thonny IDE → upload main.py</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,39.510248)">
+        <path d="M310,508L310,727C310,731.415 306.415,735 302,735L38,735C33.585,735 30,731.415 30,727L30,508C30,503.585 33.585,500 38,500L302,500C306.415,500 310,503.585 310,508Z" style="fill:rgb(248,250,252);stroke:rgb(226,232,240);stroke-width:1.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,39.510248)">
+        <path d="M310,508L310,518C310,522.415 306.415,526 302,526L38,526C33.585,526 30,522.415 30,518L30,508C30,503.585 33.585,500 38,500L302,500C306.415,500 310,503.585 310,508Z" style="fill:rgb(55,65,81);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,39.510248)">
+        <rect x="30" y="516" width="280" height="10" style="fill:rgb(55,65,81);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,170,556.510248)">
+        <text x="-73.057px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:white;">WIRE / CONNECTION LEGEND</text>
+    </g>
+    <g>
+        <g transform="matrix(1,0,0,1,0,39.510248)">
+            <path d="M45,545L90,545" style="fill:none;fill-rule:nonzero;stroke:rgb(220,38,38);stroke-width:2.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,39.510248)">
+            <circle cx="45" cy="545" r="4" style="fill:rgb(220,38,38);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,100,588.510248)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(55,65,81);">DC Positive (+)  · Red</text>
+        </g>
+        <g transform="matrix(1,0,0,1,100,599.510248)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(100,116,139);">Solar / battery positive cable · 4–6mm²</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,39.510248)">
+            <path d="M45,576L90,576" style="fill:none;fill-rule:nonzero;stroke:rgb(31,41,55);stroke-width:2.5px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,39.510248)">
+            <circle cx="45" cy="576" r="4" style="fill:rgb(31,41,55);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,100,619.510248)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(55,65,81);">DC Negative (−)  · Black</text>
+        </g>
+        <g transform="matrix(1,0,0,1,100,630.510248)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(100,116,139);">Common ground / battery negative · 4–6mm²</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,39.510248)">
+            <path d="M45,606L90,606" style="fill:none;fill-rule:nonzero;stroke:rgb(37,99,235);stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6,3;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,39.510248)">
+            <circle cx="45" cy="606" r="4" style="fill:rgb(37,99,235);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,100,649.510248)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(55,65,81);">V<tspan x="5.335px 10.833px " y="0px 0px ">ol</tspan>tage Sense  · Blue dashed</text>
+        </g>
+        <g transform="matrix(1,0,0,1,100,660.510248)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(100,116,139);">From BA<tspan x="34.835px 40.17px 42.671px " y="0px 0px 0px ">T t</tspan>erminals to divider · 0.5mm²</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,39.510248)">
+            <path d="M45,636L90,636" style="fill:none;fill-rule:nonzero;stroke:rgb(139,92,246);stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,39.510248)">
+            <circle cx="45" cy="636" r="4" style="fill:rgb(139,92,246);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,100,679.510248)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(55,65,81);">Divider Output  · Purple</text>
+        </g>
+        <g transform="matrix(1,0,0,1,100,690.510248)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(100,116,139);">3.3V max signal to GPIO34 · 0.5mm²</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,39.510248)">
+            <path d="M45,666L90,666" style="fill:none;fill-rule:nonzero;stroke:rgb(220,38,38);stroke-width:1.8px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8,4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,39.510248)">
+            <circle cx="45" cy="666" r="4" style="fill:rgb(220,38,38);fill-opacity:0.6;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,100,709.510248)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(55,65,81);">5V Power to ESP32  · Red dashed</text>
+        </g>
+        <g transform="matrix(1,0,0,1,100,720.510248)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(100,116,139);">From LOAD+ output · USB step-down · 1mm²</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,39.510248)">
+            <circle cx="45" cy="700" r="6" style="fill:rgb(31,41,55);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,100,744.510248)">
+            <text x="0px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:9px;fill:rgb(55,65,81);">•  Junction / connection point</text>
+        </g>
+        <g transform="matrix(1,0,0,1,100,755.510248)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9px;fill:rgb(100,116,139);">Wires that connect (vs crossing without connecting)</text>
+        </g>
+    </g>
+    <g transform="matrix(0.978435,0,0,1,1.725226,24)">
+        <path d="M80,130L80,159.078L242.146,159.022L242.146,135L355.951,135" style="fill:none;stroke:rgb(220,38,38);stroke-width:1.01px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g transform="matrix(0.976096,0,0,1,2.557749,24)">
+        <path d="M107,130L107,144.539L226.503,144.539L226.503,125L355.951,125" style="fill:none;stroke:rgb(31,41,55);stroke-width:1.01px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g transform="matrix(0.999987,-0.005093,0.005093,0.999987,-0.659996,24.832628)">
+        <path d="M163.148,130L163,159.078" style="fill:none;stroke:rgb(220,38,38);stroke-width:1px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g transform="matrix(0.999638,0.02689,-0.02689,0.999638,3.564448,18.934347)">
+        <path d="M190.133,130L190.524,144.539" style="fill:none;stroke:rgb(31,41,55);stroke-width:1px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+    </g>
+</svg>
